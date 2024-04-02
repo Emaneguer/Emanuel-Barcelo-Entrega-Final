@@ -1,0 +1,52 @@
+Proyecto: Creación de Contenidos Artísticos y Venta de Cursos de Dibujo Online
+
+Problema: En entornos digitales como el actual, muchas personas han decidido emprender mediante
+redes sociales ofreciendo algún servicio o producto digital, en este caso hablaremos de un curso
+de dibujo y trataremos de solucionar ciertas problemáticas. Como son tratar de generar contenido
+atractivo y persuasivo para promocionar cursos de dibujo online. También la creación de imágenes
+llamativas y textos persuasivos puede ser una tarea intensiva que requiere tiempo y habilidades
+específicas.
+
+Solución Propuesta: Desarrollar un asistente virtual basado en inteligencia artificial que utilice
+modelos de chat GPT texto a texto y texto a imagen para facilitar la creación de contenido visual y
+copys persuasivos para la venta de cursos de dibujo en línea.
+
+Justificación:
+Al no estar pensado para una empresa y sabiendo que contamos con los recursos mínimos que tendría
+un emprendedor, se utilizará Chat GPT 3.5 como principar herramienta. Los tiempos son bastante
+inmediatos ya que se busca obtener diferentes ideas de contenido al menos 3 veces por semana.
+Y estará atado a la efectividad en las ventas de los cursos.
+
+Ojetivos:
+El objetivo es desarrollar un asistente virtual basado en inteligencia artificial que utilice
+modelos de chat GPT texto a texto y texto a imagen para facilitar la creación de contenido visual
+y copys persuasivos para la venta de cursos de dibujo online.
+
+Metodología:
+Se utilizará el modelo de para asistir al generador de contenido para redes sociales (en este caso
+un emprendedor o productor de un curso Online de Dibujo). Mediante consultas al modelo se podrá
+determinar a qué público apuntar para generar mas ventas según las tendencias o las preferencias de
+la población. Esto servirá para optimizar tiempos y ganancias ya que muchas veces conocer de antemano
+estos patrones de comportamientos comunes, nos ayudan generar el contenido adecuado para la
+audiencia adecuada.
+
+Herramientas y tecnologías:
+• Chat GPT 3.5 Turbo y en ocaciones alguna página gratuita que genere imágenes.
+• One Shoot Prompting (asignando de entrada un ejemplo para orientar
+  al modelo).
+• Few Shoot Prompting (dependiendo de como sean estas respuestas dadas por el One Shoot
+  Prompting se le repreguntará).
+
+Resultados: 
+En un principio se planteó utilizar los dos modelos tanto Texto a texto como Texto a imagen. Pero observando
+cierta dificultad en el entendimiento de los modelos gratuitos para generar imagenes, al no entregar los
+resultados completamente deseados y además de que hay que realizar varias iteraciones para obtener el resultado
+esperado, podremos decir que se decide utilizar con mas frecuencia el modelo texto a texto dejando el
+de imagen texto en segundo lugar para utilizar de vez en cuando.
+
+Conclusiones: 
+El modelo texto a texto es más efectivo en el proceso de creación de contenido porque servirá para
+el marketing más puro. Como el objetivo principal es realizar ventas de los cursos podremos prescindir
+del modelo texto a imagen a menos que sea muy necesario ilustrar el contenido de manera visual.
+Los gráficos tanto de barras de tortas son de gran utilidad para visualizar las personas y las
+preferencias a la hora de hacer el contenido y entender el público al que se apunta. 
